@@ -29,6 +29,8 @@ https://free3d.com/3d-model/shalf-13509.html
 
 plante:
 https://free3d.com/3d-model/house-plant-1-48696.html
+https://free3d.com/3d-model/house-plant-01-60848.html
+https://free3d.com/3d-model/house-plant-4-76681.html
 
 ordi:
 https://free3d.com/3d-model/notebook-low-poly-version-57341.html
@@ -41,3 +43,7 @@ coffre:
 https://free3d.com/3d-model/chest-trunk-19393.html
 https://free3d.com/3d-model/wooden-chest-44006.html
 https://free3d.com/3d-model/chest-79379.html
+
+cat:
+https://free3d.com/3d-model/cat-65064.html
+https://free3d.com/3d-model/cat-95027.html
