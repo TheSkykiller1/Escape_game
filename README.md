@@ -9,4 +9,4 @@ Stephen Leroy
 
 Principe:
 
-Faire un escape game en VR
+Faire un escape game en VR sur unity
