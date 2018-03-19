@@ -1,9 +1,3 @@
-Nom de l'objet: A
-
-
-
-Lien 1:
-Lien 2:
 
 bed :
 https://free3d.com/3d-model/bed-65890.html
@@ -17,8 +11,6 @@ https://free3d.com/3d-model/iphone-8-84108.html
 
 marteau : 
 https://free3d.com/3d-model/hammer-80500.html
-
-chevet:
 
 tiroir coulissant :
 https://free3d.com/3d-model/dressers-65676.html
