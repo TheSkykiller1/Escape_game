@@ -1,9 +1,3 @@
-Nom de l'objet: A
-
-
-
-Lien 1:
-Lien 2:
 
 bed :
 https://free3d.com/3d-model/bed-65890.html
@@ -18,8 +12,6 @@ https://free3d.com/3d-model/iphone-8-84108.html
 marteau : 
 https://free3d.com/3d-model/hammer-80500.html
 
-chevet:
-
 tiroir coulissant :
 https://free3d.com/3d-model/dressers-65676.html
 https://free3d.com/3d-model/mordern-dresser-96030.html
@@ -29,6 +21,8 @@ https://free3d.com/3d-model/shalf-13509.html
 
 plante:
 https://free3d.com/3d-model/house-plant-1-48696.html
+https://free3d.com/3d-model/house-plant-01-60848.html
+https://free3d.com/3d-model/house-plant-4-76681.html
 
 ordi:
 https://free3d.com/3d-model/notebook-low-poly-version-57341.html
@@ -41,3 +35,7 @@ coffre:
 https://free3d.com/3d-model/chest-trunk-19393.html
 https://free3d.com/3d-model/wooden-chest-44006.html
 https://free3d.com/3d-model/chest-79379.html
+
+cat:
+https://free3d.com/3d-model/cat-65064.html
+https://free3d.com/3d-model/cat-95027.html
