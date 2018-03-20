@@ -1,4 +1,4 @@
-bed; https://free3d.com/3d-model/bed-61900.html
+bed: https://free3d.com/3d-model/bed-61900.html
 
 desk: https://www.turbosquid.com/3d-models/free-desk-3d-model/507526
 
